@@ -61,7 +61,6 @@ router.get("/:idx", (req, res)=>{
 })
 
 
-
 // POST A NEW DINO
 router.post("/", (req, res)=>{
     // console.log(req.body)
